@@ -87,3 +87,4 @@ MeteoMaster is available under the [MIT License](LICENSE.md). You are free to us
 ![Current Weather View](https://github.com/thehackermonk/meteo-master/blob/main/screenshots/NowView.png)
 ![Day View](https://github.com/thehackermonk/meteo-master/blob/main/screenshots/DayView.png)
 ![Week View](https://github.com/thehackermonk/meteo-master/blob/main/screenshots/WeekView.png)
+If the images doesn't render please go to the screenshots folder
