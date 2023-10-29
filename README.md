@@ -53,10 +53,10 @@ To run MeteoMaster on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name
+   git clone https://github.com/thehackermonk/meteo-master
 2. Navigate to the project folder:
    ```bash
-   cd your-repo-name
+   cd meteo-master
 3. Install the necessary dependencies for the front-end and back-end. Refer to the respective sections.
 4. Start both the front-end and back-end components.
 5. Open a web browser and access the app at http://localhost:your-port (replace your-port with the port you've configured).
@@ -82,3 +82,9 @@ MeteoMaster is available under the [MIT License](LICENSE.md). You are free to us
 ## Author
 
 - Karthik Prakash
+
+## Screenshots
+![Current Weather View](https://github.com/thehackermonk/meteo-master/blob/main/screenshots/NowView.png)
+![Day View](https://github.com/thehackermonk/meteo-master/blob/main/screenshots/DayView.png)
+![Week View](https://github.com/thehackermonk/meteo-master/blob/main/screenshots/WeekView.png)
+If the images doesn't render please go to the screenshots folder
